@@ -2,13 +2,13 @@
 
 This project uses Python and the Visualization Toolkit (VTK) to advance medical data visualisation. It's built around the SPL Head and Neck Atlas, providing tools for rendering both 2D slices and 3D models from medical imaging data. 
 
-![MDV Interface](https://github.com/TimothyMas/MDV/blob/main/Images/MDV_UI.png)
+![MDV Interface](https://github.com/TimothyMas/MDV_VTK/blob/main/Images/MDV_UI.png)
 
 ## Additional Resources
 
 For more detailed information about the project and sources, refer to the project documentation:
 
-- [MDV Project Detailed Documentation](https://github.com/TimothyMas/MDV/blob/main/MDV_Documentation.pdf)
+- [MDV Project Detailed Documentation](https://github.com/TimothyMas/MDV_VTK/blob/main/MDV_Documentation.pdf)
 
 ## Features
 - **Python Scripting for Medical Imaging**: Utilizes Python for efficient medical data processing and visualisation.
@@ -23,7 +23,7 @@ The code is designed to be flexible, allowing users to explore different parts o
 
 For an example of how to select different models, see the screenshot in the `Images` folder:
 
-![Selecting Different Models](https://github.com/TimothyMas/MDV/blob/main/Images/MDV_Choose_model.png)
+![Selecting Different Models](https://github.com/TimothyMas/MDV_VTK/blob/main/Images/MDV_Choose_model.png)
 
 ## Getting Started
 
