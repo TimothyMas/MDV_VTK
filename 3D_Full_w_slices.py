@@ -107,8 +107,8 @@ def color_mesh(mesh, lut):
 
 def main():
     # File paths for the grayscale and segmentation data
-    grayscale_file_path = "C:\\Users\\tymek\\Desktop\\Studia\\Programowanie\\WDM\\head-neck-2016-09\\grayscale\\Osirix-Manix-255-res.nrrd"
-    segmentation_file_path = "C:\\Users\\tymek\\Desktop\\Studia\\Programowanie\\WDM\\head-neck-2016-09\\labels\\HN-Atlas-labels.nrrd"
+    grayscale_file_path = r'./head-neck-2016-09/grayscale/Osirix-Manix-255-res.nrrd'
+    segmentation_file_path = r'./head-neck-2016-09/labels/HN-Atlas-labels.nrrd'
     
     # Create a renderer, render window, and interactor
     renderer = vtk.vtkRenderer()
